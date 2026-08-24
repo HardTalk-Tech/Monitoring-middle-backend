@@ -1,0 +1,6 @@
+node_modules/
+server/node_modules/
+*.pem
+*firebase-adminsdk*.json
+crisis-command-center-*-firebase-adminsdk*.json
+.env
